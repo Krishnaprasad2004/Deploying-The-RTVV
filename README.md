@@ -90,8 +90,8 @@ If prompted:
 
 The app and its documentation are hosted on GitHub and GitHub Pages for easy access.
 
-🔗 **Download Page:** [https://krishnaprasad-30429846.github.io/Deploying-The-RTVV/](https://krishnaprasad-30429846.github.io/Deploying-The-RTVV/)  
-📦 **GitHub Repository:** [https://github.com/Krishnaprasad-30429846/Deploying-The-RTVV](https://github.com/Krishnaprasad-30429846/Deploying-The-RTVV)
+🔗 **Download Page:** [https://github.com/Krishnaprasad2004/Deploying-The-RTVV)  
+📦 **GitHub Repository:** [https://github.com/Krishnaprasad2004/Deploying-The-RTVV)
 
 ---
 
@@ -135,20 +135,15 @@ Developed by the **WordScan Team**
 
 ---
 
-## 📷 **Preview**
-
-![App Screenshot Placeholder](https://via.placeholder.com/600x350?text=Book+Scanner+App+Preview)
-
----
 
 ## 🚀 **Changelog**
 | Version | Date | Updates |
 |----------|------|----------|
 | **v1.4** | Oct 2025 | Final stable release, optimized performance, no known bugs |
-| **v1.3** | Sept 2025 | Fixed minor interface clutter and improved word highlighting |
-| **v1.2** | Aug 2025 | Added Vocabulary Checker feature |
-| **v1.1** | July 2025 | Bug fixes and UI improvement |
-| **v1.0** | May 2025 | Prototype build and first APK release |
+| **v1.3** | Oct 2025 | Fixed minor interface clutter and improved word highlighting |
+| **v1.2** | Sept 2025 | Added Vocabulary Checker feature |
+| **v1.1** | Aug 2025 | Bug fixes and UI improvement |
+| **v1.0** | July 2025 | Prototype build and first APK release |
 
 ---
 
