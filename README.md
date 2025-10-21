@@ -50,7 +50,7 @@ The project also focuses on:
 ## 📱 **Installation Guide (Android 13 and Above)**
 
 ### Step 1 – Download the APK
-➡️ [**Click here to download the latest APK (v1.4)**](https://github.com/Krishnaprasad-30429846/Deploying-The-RTVV/releases/latest/download/app-release.apk)
+➡️ [**Click here to download the latest APK (v1.4)**](https://github.com/Krishnaprasad2004/Deploying-The-RTVV/releases/download/v1.4_apk/RTVV.1.4.apk)
 
 ---
 
@@ -86,14 +86,6 @@ If prompted:
 
 ---
 
-## 🌐 **Deployment**
-
-The app and its documentation are hosted on GitHub and GitHub Pages for easy access.
-
-🔗 **Download Page:** [https://github.com/Krishnaprasad2004/Deploying-The-RTVV)  
-📦 **GitHub Repository:** [https://github.com/Krishnaprasad2004/Deploying-The-RTVV)
-
----
 
 ## 🧩 **Version History**
 
@@ -148,7 +140,7 @@ Developed by the **WordScan Team**
 ---
 
 ## 🔗 **Quick Links**
-- 🌍 [Download APK](https://github.com/Krishnaprasad2004/Deploying-The-RTVV)  
+- 🌍 [Download APK](https://github.com/Krishnaprasad2004/Deploying-The-RTVV/releases/download/v1.4_apk/RTVV.1.4.apk)  
 - 📦 [GitHub Repository](https://github.com/Krishnaprasad2004/Deploying-The-RTVV)  
 - 🎥 [Demonstration Video](https://youtu.be/eEuV8li9TJc)  
 
